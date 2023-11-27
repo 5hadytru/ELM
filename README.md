@@ -1,2 +1,2 @@
 # ELM
-Reusable Extreme Learning Machine implementation w/ PyTorch
+Extreme Learning Machine implementation w/ PyTorch
